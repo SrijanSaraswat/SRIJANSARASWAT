@@ -12,6 +12,7 @@
 <h4 align="center">Hello, World! 🌍 Welcome, fellow explorers of the digital universe! I am Srijan Saraswat, a passionate devotee of Computer Science, currently embarking on the thrilling adventure of my second year in the Bachelor of Technology program. Let me share the exciting journey that has brought me here.
 
 
+
 Among the vast realms of technology, my heart resonates with the ethereal whispers of Data Science. I am a self-taught enthusiast, driven by an insatiable curiosity and a relentless pursuit of knowledge. My path to becoming a Data Scientist is illuminated not by traditional academia, but by the guiding stars of self-learning and discovery. I believe in the transformative power of knowledge and the boundless potential of the human spirit to venture beyond the known.
 
 
