@@ -32,7 +32,7 @@ Dear visitor, as you navigate through my GitHub repositories, I invite you to jo
 
 - 🌱 I’m currently learning **Data Science with Python**
 
-- 💬 Ask me about **C/C++/Python, UI/UX designer,  Backend Dev**
+- 💬 Ask me about **C/C++/Python, UI/UX design,  Backend Dev**
 
 - 📫 How to reach me **srijansaraswat98@gmail.com**
 
