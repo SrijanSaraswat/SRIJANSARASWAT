@@ -37,3 +37,6 @@ from each other, and let us build a future that is as bright as the code that po
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrijanSaraswat&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSaraswat&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SrijanSaraswat&color=blue)
+
