@@ -11,9 +11,12 @@
 <h1 align="center">Hi 👋, I'm Srijan Saraswat</h1>
 <h4 align="center">Hello, World! 🌍 Welcome, fellow explorers of the digital universe! I am Srijan Saraswat, a passionate devotee of Computer Science, currently embarking on the thrilling adventure of my second year in the Bachelor of Technology program. Let me share the exciting journey that has brought me here.
 
+
 Among the vast realms of technology, my heart resonates with the ethereal whispers of Data Science. I am a self-taught enthusiast, driven by an insatiable curiosity and a relentless pursuit of knowledge. My path to becoming a Data Scientist is illuminated not by traditional academia, but by the guiding stars of self-learning and discovery. I believe in the transformative power of knowledge and the boundless potential of the human spirit to venture beyond the known.
 
+
 My GitHub repository is a living chronicle of my technological explorations. It reflects my unyielding curiosity, my continuous quest for understanding, and my steadfast commitment to personal and professional growth. Each project is a milestone in my journey, each commits a line in my narrative.
+
 
 Dear visitor, as you navigate through my GitHub repositories, I invite you to join me on this quest. Let's delve into the uncharted territories of technology together, learn from one another, and build a future as bright as the data we analyze. Welcome to my world. Let our adventure begin! 🚀
 
@@ -30,24 +33,18 @@ Dear visitor, as you navigate through my GitHub repositories, I invite you to jo
 
 - 💬 Ask me about **C/C++/Python, UI/UX designer,  Backend Dev**
 
-- 📫 How to reach me **srijansaraswat@example.com**
-
-- 📄 Know about my experiences on [My Portfolio](https://srijan-saraswat.netlify.app/)
-
-- ⚡ Fun fact **They think I study a lot. I don't.**
+- 📫 How to reach me **srijansaraswat98@gmail.com**
 
 ##
 
 <h3 align="center" style="margin-top: 150px">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/srijansaraswat" style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srijansaraswat" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/your-stackoverflow-id"  style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="40" width="50" /></a>
-<a href="https://instagram.com/srijansaraswat"  style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijansaraswat" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/your-codechef-id"  style="padding: 20px" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="your-codechef-id" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/your-hackerrank-id"  style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank-id" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/srijansaraswat"  style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srijansaraswat" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/your-gfg-id/profile"  style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="your-gfg-id/profile" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/h221030377" style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srijansaraswat" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/u/Srijan_/" style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srijansaraswat" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/srijan-saraswat" style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijansaraswat" height="40" width="50" /></a>
+<a href="https://instagram.com/_.srijan_saraswat._" style="padding: 20px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijansaraswat" height="40" width="50" /></a>
 </p>
+
 
 ##
 
