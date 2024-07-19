@@ -8,7 +8,7 @@
 
 <a href="mailto:YourEmail@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
 
-<h1 align="center">Hi, I'm Srijan Saraswat! I'm a second-year B.Tech student passionate about Data Science. Driven by curiosity, I thrive on self-learning and discovery. My GitHub is a testament to my journey, showcasing projects that reflect my growth and commitment. Let's explore technology together and create a bright future.
+<h2 align="center">Hi, I'm Srijan Saraswat! I'm a third-year B.Tech student passionate about Data Science. Driven by curiosity, I thrive on self-learning and discovery. My GitHub is a testament to my journey, showcasing projects that reflect my growth and commitment. Let's explore technology together and create a bright future.
 
   Welcome to my world! 🚀
 
