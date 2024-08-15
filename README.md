@@ -2,6 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 🔭   I’ve worked on Competitive Programming Analyser
 🌱   I’m currently learning Data Science with Python
 💬   Ask me about C/C++/Python, UI/UX design, Backend Development
