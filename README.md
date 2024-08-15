@@ -3,19 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-🔭   I’ve worked on Competitive Programming Analyser
-🌱   I’m currently learning Data Science with Python
-💬   Ask me about C/C++/Python, UI/UX design, Backend Development
-📫   How to reach me: srijansaraswat98@gmail.com
-
+<p>🔭 &nbsp; I’ve worked on Competitive Programming Analyser</p>
+<p>🌱 &nbsp; I’m currently learning Data Science with Python</p>
+<p>💬 &nbsp; Ask me about C/C++/Python, UI/UX design, Backend Development</p>
+<p>📫 &nbsp; How to reach me: srijansaraswat98@gmail.com</p>
 
 <h3>🛠 Tech Stack</h3>
-💻   C | C++ | Python
-🌐   HTML | CSS | JavaScript | Django
-🛢   MySQL
-🔧   Git | Visual Studio Code | PyCharm
-🖥   Figma | Illustrator | Photoshop
 
+<p>💻 &nbsp; C | C++ | Python</p>
+<p>🌐 &nbsp; HTML | CSS | JavaScript | Django</p>
+<p>🛢 &nbsp; MySQL</p>
+<p>🔧 &nbsp; Git | Visual Studio Code | PyCharm</p>
+<p>🖥 &nbsp; Figma | Illustrator | Photoshop</p>
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijansaraswat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Srijan's Github Stats">
