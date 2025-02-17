@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <p>🔭 &nbsp; I’ve worked on Competitive Programming Analyser</p>
-<p>🌱 &nbsp; I’m currently learning Data Science with Python</p>
+<p>🌱 &nbsp; I’m currently learning Sofware Development </p>
 <p>💬 &nbsp; Ask me about C/C++/Python, UI/UX design, Backend Development</p>
 <p>📫 &nbsp; How to reach me: saraswatsrijan@gmail.com</p>
 
