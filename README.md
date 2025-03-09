@@ -96,4 +96,4 @@
   </a>
 </p>
 
-⭐️ From **Srijan Saraswat**
+**Srijan Saraswat**
