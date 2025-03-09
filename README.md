@@ -60,21 +60,21 @@
   </tr>
   <tr>
     <td><b>Competitive Programming Analyser</b></td>
-    <td>An AI-powered tool that analyzes your competitive programming performance.</td>
-    <td>Python, Flask, Web Scraping</td>
-    <td><a href="https://github.com/srijansaraswat/competitive-programming-analyser">GitHub Repo</a></td>
+    <td>Competitive programming performance.</td>
+    <td>Html, CSS, Javascript, Django</td>
+<!--     <td><a href="https://github.com/srijansaraswat/competitive-programming-analyser">GitHub Repo</a></td> -->
   </tr>
   <tr>
     <td><b>Memory Encryption & Decryption</b></td>
     <td>A C++ project demonstrating OpenSSL-based memory encryption.</td>
     <td>C++, OpenSSL</td>
-    <td><a href="https://github.com/srijansaraswat/memory-encryption">GitHub Repo</a></td>
+<!--     <td><a href="https://github.com/srijansaraswat/memory-encryption">GitHub Repo</a></td> -->
   </tr>
   <tr>
     <td><b>Portfolio Website</b></td>
     <td>My personal portfolio showcasing my skills and projects.</td>
     <td>HTML, CSS, JavaScript</td>
-    <td><a href="https://srijansaraswat.github.io/">Live Demo</a></td>
+<!--     <td><a href="https://srijansaraswat.github.io/">Live Demo</a></td> -->
   </tr>
 </table>
 
