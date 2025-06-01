@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! I'm Srijan Saraswat 👋</h1>
+<h1 align="center">Hey there! I'm Srijan Saraswat </h1>
 
 <p align="center">
-  <em>A passionate developer exploring Backend Engineering, UI/UX Design, and the endless world of Software Development 🚀</em>
+  <em>A passionate developer exploring Backend Engineering, UI/UX Design, and the endless world of Software Development </em>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srijan-saraswat" target="_blank">
@@ -81,5 +81,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/srijansaraswat">Srijan Saraswat</a>
+  <a href="https://github.com/srijansaraswat">Srijan Saraswat</a>
 </p>
