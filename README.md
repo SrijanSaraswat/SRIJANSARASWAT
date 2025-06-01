@@ -8,10 +8,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’ve worked on **Competitive Programming Analyser**
-- 🌱 Currently learning **Software Development**, diving deeper into backend architecture & deployment
-- 💬 Ask me about **C/C++**, **Python**, **Backend Engineering**, and **UI/UX Design**
-- 📫 Reach me at: **saraswatsrijan@gmail.com**
+- I’ve worked on **Competitive Programming Analyser**
+- Currently learning **Software Development**, diving deeper into backend architecture & deployment
+- Ask me about **C/C++**, **Python**, **Backend Engineering**, and **UI/UX Design**
+- Reach me at: **saraswatsrijan@gmail.com**
 
 ---
 
