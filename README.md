@@ -1,11 +1,6 @@
 ### Hey there! I'm Srijan Saraswat 👋
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a developer who is passionate about Backend Development, UI/UX Design, and exploring the depths of Software Development 🚀.
 
 🔭 I’ve worked on **Competitive Programming Analyser**  
