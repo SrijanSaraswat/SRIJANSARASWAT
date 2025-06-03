@@ -88,9 +88,9 @@
 
 <p align="center">
   Let's collaborate and build impactful solutions together.<br/>
-  Star your favorite projects and follow for updates.
+  Follow for updates.
 </p>
 
 <p align="center">
-  <a href="https://github.com/srijansaraswat">Srijan Saraswat</a>
+  <a href="https://github.com/SrijanSaraswat">Srijan Saraswat</a>
 </p>
