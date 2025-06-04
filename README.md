@@ -63,7 +63,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijansaraswat&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Srijan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijansaraswat&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800" alt="Srijan's GitHub Stats" />
 </p>
 
 ---
