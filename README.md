@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Srijan Saraswat</h1>
+<h1 align="center">Hi, I'm Srijan</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
