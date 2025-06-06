@@ -27,7 +27,7 @@
 | **Competitive Programming Analyzer** | Visualizes and analyzes competitive programming submissions. | HTML, CSS, JavaScript, Django |
 | **Virtual Memory Encryption** | Implements runtime memory-level encryption using OpenSSL. | C++, OpenSSL |
 | **Fashion Recommendation System (AR)** | Try-on outfits virtually using body tracking and AR overlays. | Python, MediaPipe, OpenCV, Rembg |
-| **Portfolio Website** | Responsive and clean website to showcase personal projects. | HTML, CSS, JavaScr |
+| **Portfolio Website** | Responsive and clean website to showcase personal projects. | HTML, CSS, JavaScript |
 
 ---
 
