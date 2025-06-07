@@ -11,8 +11,6 @@
 
 ## About Me
 
-- Pursuing B.Tech in Computer Science Engineering from Jaypee University of Information Technology (2022–2026)
-- Specialization in **Information Security** and backend development
 - Strong foundation in building **scalable**, **secure**, and **modular** backend systems
 - Actively exploring **API architecture**, **DevOps basics**, and **real-world deployments**
 - Proficient in **C++**, **Python**, **MySQL**, and **Django**
