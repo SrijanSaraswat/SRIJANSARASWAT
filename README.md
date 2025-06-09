@@ -22,6 +22,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| **Personal Expense Tracker** | Web app to manage and visualize expenses by category and month, with CSV upload and Chart.js integration. | Django, HTML, CSS, Chart.js, Bootstrap |
 | **Competitive Programming Analyzer** | Visualizes and analyzes competitive programming submissions. | HTML, CSS, JavaScript, Django |
 | **Virtual Memory Encryption** | Implements runtime memory-level encryption using OpenSSL. | C++, OpenSSL |
 | **Fashion Recommendation System (AR)** | Try-on outfits virtually using body tracking and AR overlays. | Python, MediaPipe, OpenCV, Rembg |
